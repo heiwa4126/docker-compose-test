@@ -24,6 +24,8 @@ docker compose up -d
 docker compose down
 ```
 
+で終了。
+
 ### watch
 
 ホットリロードみたいなやつ。
@@ -46,4 +48,4 @@ docker compose up --watch
 docker compose up --build
 ```
 
-で。
+でイメージを作り直すこと。
